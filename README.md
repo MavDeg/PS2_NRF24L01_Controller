@@ -5,8 +5,8 @@ A modified PS2 controller with NRF24L01+ transceiver with a claimed range of at 
 
 I have used it then to control a cheap miniature RC Humvee, which I modified with proportional throttle (motor driver) and steering (servo). 
 Uploaded videos here for finished product: 
-part 1: https://youtu.be/7QUyydQXGZw 
-part 2: https://youtu.be/_nKF8cpH4RI   (note: I forgot to test the missile launcher)
+part 1: https://www.youtube.com/watch?v=YFMO3IZN7Nw
+part 2: https://youtu.be/_nKF8cpH4RI 
 
 
 Here is the instructable post:
